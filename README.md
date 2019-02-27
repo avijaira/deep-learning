@@ -2,5 +2,5 @@
 Deep Learning Projects
 ---
 
-1. Deeplearning.ai's Deep Learning Specialization on Coursera
+1. Deep Learning, a 5-course specialization by deeplearning.ai on Coursera
 
